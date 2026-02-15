@@ -6,7 +6,7 @@ import "strings"
 // import "slices"
 import "os"
 import "bufio"
-import "package1"
+import "github.com/icalvor-uoc/gocalvo/package1"
 
 func main() {
   package1.SayPackage()
